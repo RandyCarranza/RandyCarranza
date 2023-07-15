@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/Josh
 [instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com/in/Josh<a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+[linkedin]: [<](https://www.linkedin.com/in/randy-carranza-3a9920282/)a </a>☺</h1>
