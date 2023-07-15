@@ -1,4 +1,4 @@
-<h1>Hello World, I'm Randy, an IT Professional<a href="https://www.linkedin.com/in/randycarranza"></a></h1>
+<h1>Hello World, I'm Randy, an <a href="https://www.linkedin.com/in/randycarranza">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
